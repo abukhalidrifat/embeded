@@ -1,0 +1,19 @@
+.faqbox {
+  background-color: black;
+  color: white;
+  padding: 12px;
+  margin-bottom: 20px;
+}
+.faqQs {
+  display: flex;
+  justify-content: space-between;
+}
+.faqgtsign {
+  transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  margin-right: 35px;
+  cursor: pointer;
+}

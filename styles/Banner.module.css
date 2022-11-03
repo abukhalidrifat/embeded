@@ -1,0 +1,9 @@
+.imgovertxt{
+  position: absolute;
+  width: 30em;
+  font-size: 20px;
+  text-align: left;
+  margin-left: 120px;
+  top: 15%;
+  color: white;
+}
